@@ -1,6 +1,6 @@
 name: 更新 
 
-于:
+on:
   # 定时任务（默认禁用，取消注释即可启用）
   # GitHub Actions 定时可能有 10-60 分钟延迟
    schedule:
